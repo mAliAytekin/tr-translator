@@ -1,6 +1,7 @@
 # en-tr translator with transformer architecture
 
 trained on mac m3 pro about 260 minutes
+dataset: https://huggingface.co/datasets/cturan/high-quality-english-turkish-sentences
 has 17,979,168 parameters
 hyperparameters 
 - vocab_size=800
