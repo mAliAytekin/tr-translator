@@ -14,6 +14,8 @@ hyperparameters
 - num_encoder_layers=6
 - num_decoder_layers=6
 - d_ff=2048
+- num_epochs = 3
+- batch_size = 32
 
 <img width="1427" height="598" alt="image" src="https://github.com/user-attachments/assets/db126add-24c9-4c80-a7be-5d2faf6f4701" />
 <img width="1335" height="582" alt="image" src="https://github.com/user-attachments/assets/78216e11-e6c3-4d09-9dcf-437784b23c59" />
