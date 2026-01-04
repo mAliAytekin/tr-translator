@@ -1,4 +1,4 @@
-# en-tr transator with transformer architecture
+# en-tr translator with transformer architecture
 
 trained on mac m3 pro about 260 minutes
 has 17,979,168 parameters
