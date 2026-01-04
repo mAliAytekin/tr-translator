@@ -1,6 +1,6 @@
 # en-tr translator with transformer architecture
 
-trained on mac m3 pro about 245 minutes
+trained on mac m3 max about 245 minutes
 
 dataset: https://huggingface.co/datasets/cturan/high-quality-english-turkish-sentences
 
